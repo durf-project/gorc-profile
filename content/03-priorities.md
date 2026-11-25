@@ -14,7 +14,7 @@ We ranked the essential elements by how important they are to the federation now
 | 1 | [Governance and leadership](#governance) | How the federation is organised, decides, speaks with one voice and deals with parties that do not deliver (Ostrom 3, 5, 6, 7, 8). |
 | 2 | [Standards and conventions](#standards) | Existing standards for exchanging data between services, written down as data contracts (Ostrom 2). |
 | 3 | [Interoperability](#interoperability) | Services comply with the standards, monitored on the DURF dashboards (Ostrom 4). |
-| 4 | [Human capacity](#human-capacity) | The people in the partner institutions who connect the systems and implement the standards. |
+| 4 | [Human capacity](#human-capacity) | The in-kind contributions of every role at the member institutions, from library director to expert. |
 | 5 | [Rules of participation and access](#rules) | Who can join, with which role, obligations and quality targets (Ostrom 2, 3). |
 | 6 | [Sustainability](#sustainability) | The corpus lasts only if it is used and its services have people and money, in a solidarity model. |
 | 9 | [Engagement](#engagement) | Show the value of the corpus to policy makers and the public. |
