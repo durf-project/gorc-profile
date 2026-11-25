@@ -1,7 +1,7 @@
 {
   "_readme": "SOLL assessment of the GORC profile of the Dutch Repository Federation Commons: where we want to be at the end of the DURF project (May 2030). A DRAFT for the community to shape. Framework: GORC v1.1 Assessment of the SPII Principles Alignment Tool. Open it at https://surf-ori.github.io/spii-1b-principles-alignment-tool/ (Import), change the answers and notes, save it and replace this file.",
   "name": "Dutch Repository Federation Commons (SOLL, target May 2030, draft)",
-  "description": "The Dutch Repository Federation takes care of the Dutch Scholarly Communication Corpus: the published works with at least one author affiliated with a Dutch research institution. This is the target situation, a draft proposal for the community to shape.",
+  "description": "The Dutch Repository Federation takes care of the Dutch Scholarly Communication Corpus: the publicly funded, published scholarly works with at least one author affiliated with a Dutch research institution. This is the target situation, a draft proposal for the community to shape.",
   "url": "https://durf-project.github.io/gorc-profile/",
   "assessedOn": "2026-11-25",
   "activities": [],

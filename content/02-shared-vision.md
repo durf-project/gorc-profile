@@ -7,13 +7,13 @@ nav: Shared vision
 
 The [DURF position paper](https://durf-project.github.io/position-paper/) is the shared vision behind this profile, and the background of the governance section.
 
-> **Dutch Repository Federation:** together we, the libraries, are the custodians of the Dutch Scholarly Communication Corpus, containing 3.4 million published works from the early 1800s until today.
+> **Dutch Repository Federation:** together we, the libraries, are the custodians of the Dutch Scholarly Communication Corpus, containing 3.4 million publicly funded, published scholarly works from the early 1800s until today.
 
 > **Mission:** joining this federation makes each of us responsible, together, to maintain the services and pieces of a federative Open Science infrastructure for Dutch publicly funded scholarly output, so that the Corpus and its services remain open, findable, accessible, available, and resilient in times of commercial and geopolitical turbulence.
 
 ### The corpus as a commons
 
-The corpus is a shared resource. No single institution owns it. Every institution contributes to it and every institution depends on it. Like any commons, it only stays healthy when the community that uses it also takes care of it: agreeing together what good looks like, measuring it in the open, and each doing our part at the source.
+The corpus is a shared resource because it was created with public money: what the public has paid for should be available to the public. No single institution owns it. Every institution contributes to it and every institution depends on it. Like any commons, it only stays healthy when the community that uses it also takes care of it: agreeing together what good looks like, measuring it in the open, and each doing our part at the source.
 
 Elinor Ostrom found eight design principles shared by commons that last. They return throughout this profile:
 

@@ -1,7 +1,7 @@
 {
   "_readme": "IST assessment of the GORC profile of the Dutch Repository Federation Commons: the situation in November 2026. Framework: GORC v1.1 Assessment of the SPII Principles Alignment Tool. Open it at https://surf-ori.github.io/spii-1b-principles-alignment-tool/ (Import), change the answers and notes, save it and replace this file. DRAFT, written for review by DURF theme 1.",
   "name": "Dutch Repository Federation Commons (IST, November 2026)",
-  "description": "The Dutch Repository Federation takes care of the Dutch Scholarly Communication Corpus: the published works with at least one author affiliated with a Dutch research institution. This is the current situation.",
+  "description": "The Dutch Repository Federation takes care of the Dutch Scholarly Communication Corpus: the publicly funded, published scholarly works with at least one author affiliated with a Dutch research institution. This is the current situation.",
   "url": "https://durf-project.github.io/gorc-profile/",
   "assessedOn": "2026-11-25",
   "activities": [],
@@ -98,7 +98,7 @@
       },
       "gorc-std-research-object": {
         "status": "progress",
-        "notes": "The corpus is defined in the position paper (published works with at least one Dutch-affiliated author, including non-traditional outputs and institutional journals). Resource types are described with local vocabularies."
+        "notes": "The corpus is defined in the position paper (publicly funded, published scholarly works with at least one Dutch-affiliated author, including non-traditional outputs and institutional journals). Resource types are described with local vocabularies."
       },
       "gorc-std-metadata": {
         "status": "progress",
@@ -210,7 +210,7 @@
       },
       "gorc-ro-publications": {
         "status": "progress",
-        "notes": "The corpus counts 3.4 million published works in the OpenAIRE Graph; 1.9 million records (1995 to 2025) are in the repositories and CRIS systems of 18 monitored institutions."
+        "notes": "The corpus counts 3.4 million published scholarly works in the OpenAIRE Graph; 1.9 million records (1995 to 2025) are in the repositories and CRIS systems of 18 monitored institutions."
       },
       "gorc-ro-data": {
         "status": "not-applicable",
