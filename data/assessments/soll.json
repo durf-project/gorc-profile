@@ -1,0 +1,233 @@
+{
+  "_readme": "SOLL assessment of the GORC profile of the Dutch Repository Federation Commons: where we want to be at the end of the DURF project (May 2030). A DRAFT for the community to shape. Framework: GORC v1.1 Assessment of the SPII Principles Alignment Tool. Open it at https://surf-ori.github.io/spii-1b-principles-alignment-tool/ (Import), change the answers and notes, save it and replace this file.",
+  "name": "Dutch Repository Federation Commons (SOLL, target May 2030, draft)",
+  "description": "The Dutch Repository Federation takes care of the Dutch Scholarly Communication Corpus: the published works with at least one author affiliated with a Dutch research institution. This is the target situation, a draft proposal for the community to shape.",
+  "url": "https://durf-project.github.io/gorc-profile/",
+  "assessedOn": "2026-11-25",
+  "activities": [],
+  "customFrameworks": [],
+  "frameworks": {
+    "gorc": {
+      "gorc-gov-intent": {
+        "status": "compliant",
+        "notes": "The position paper is signed by the library directors of the UBs, the KB and OpenAIRE. Mission, vision, values (Ostrom's design principles) and the corpus definition are published in the Federation Rule Book and reviewed every year at the DURF Federation Day."
+      },
+      "gorc-gov-strategy": {
+        "status": "compliant",
+        "notes": "A multi-year federation strategy with a roadmap, a small set of agreed indicators (taken from the DURF dashboards), a funding framework and a risk and continuity plan for the corpus, including a tested scenario in which a repository, OpenAIRE or the e-Depot drops out."
+      },
+      "gorc-gov-structures": {
+        "status": "compliant",
+        "notes": "The federation is organised within an existing body, most likely UKB, open to non-UKB members, with a general assembly (the annual Federation Day), a small coordinating board and mandated working groups (Content Board for metadata, NaMeCo towards OpenAIRE). Decision rules, escalation and conflict resolution are part of the Federation Rule Book. No new legal entity is created."
+      },
+      "gorc-gov-policy": {
+        "status": "progress",
+        "notes": "Policies on open metadata (CC0), full text capture, preservation and portal management are drafted per theme and adopted by the general assembly; they are kept in the rule book with a version history on GitHub."
+      },
+      "gorc-gov-quality": {
+        "status": "compliant",
+        "notes": "Quality targets per agreed field (DOI, ORCID, ROR, licence, full text) are adopted, monitored on the public dashboards and discussed with each institution. The federation commits to the Seven Guiding Principles for Open Research Information, FAIR and POSI as its reference principles."
+      },
+      "gorc-rpa-rights": {
+        "status": "compliant",
+        "notes": "Rules of participation: who can join (core parties: 13 UBs, KB, OpenAIRE; open to every Dutch research performing organisation at its own pace), roles in the chain, rights and obligations per role (from appendix B of the position paper), and how to join and leave. Access to the corpus metadata is open (CC0); full texts follow their licences."
+      },
+      "gorc-rpa-accountability": {
+        "status": "compliant",
+        "notes": "Accountability through graduated steps (Ostrom principle 5): monitoring, a signal and help first, then a conversation in the coordinating board, and only then firmer measures. Conflict resolution is quick and accessible (principle 6). Data contracts make the obligations between parties explicit and checkable."
+      },
+      "gorc-sus-resourcing": {
+        "status": "compliant",
+        "notes": "A solidarity-based funding model after the project: UBs and KB jointly fund the OpenAIRE subscription, the functional management of the Netherlands Research Portal and the federation's coordination, with in-kind contributions recognised. Agreed before the project ends."
+      },
+      "gorc-sus-stewardship": {
+        "status": "compliant",
+        "notes": "Stewardship is a shared responsibility with explicit redundancy: every record and full text exists at the source, in the OpenAIRE Graph (metadata) and in the e-Depot, with a URN:NBN. A restore procedure is described and tested at least once during the project."
+      },
+      "gorc-sus-trust": {
+        "status": "compliant",
+        "notes": "Trust is kept through openness: decisions, dashboards, the rule book and its changes are public; parties report on their commitments at the Federation Day."
+      },
+      "gorc-eng-plan": {
+        "status": "compliant",
+        "notes": "An engagement plan per audience: library directors (commitment), repository and CRIS managers (implementation), policy makers (reporting from the Graph), researchers and the public (the portal, WijsNL)."
+      },
+      "gorc-eng-feedback": {
+        "status": "compliant",
+        "notes": "Open co-creation: the rule book and this profile are edited in the open, feedback is answered with a reason for accepting, parking or rejecting it, and changes are logged."
+      },
+      "gorc-eng-promotion": {
+        "status": "progress",
+        "notes": "The corpus is used visibly: policy makers use the Graph for reporting, the public finds Dutch research and experts through the portal, and institutions see their own progress on the dashboards. Good practice is recognised at the Federation Day."
+      },
+      "gorc-eng-partnerships": {
+        "status": "compliant",
+        "notes": "Formal representation in OpenAIRE through NaMeCo, a place in the Dutch EOSC Node, and agreements with discovery partners (WijsNL, OpenAlex, Wikidata) on how the corpus is reused."
+      },
+      "gorc-hc-internal": {
+        "status": "progress",
+        "notes": "A public register of contacts per institution and per role in the chain (repository manager, CRIS manager, metadata expert, e-Depot contact), with backup arrangements so knowledge does not leave with one person."
+      },
+      "gorc-hc-service-skills": {
+        "status": "progress",
+        "notes": "The coordinating board and working groups have the skills to commission, monitor and assess the shared services, supported by SURF."
+      },
+      "gorc-hc-community-skills": {
+        "status": "compliant",
+        "notes": "The skills each role needs are described in the rule book, and institutions help each other through peer support and shared tools."
+      },
+      "gorc-hc-ease-of-use": {
+        "status": "compliant",
+        "notes": "One entry point (this profile and the rule book) explains how to take part, with data contracts that say exactly what to deliver."
+      },
+      "gorc-hc-training": {
+        "status": "progress",
+        "notes": "Train-the-trainer sessions and how-to guides per theme (metadata, full text capture, preservation, discoverability), shared at the Federation Day and online."
+      },
+      "gorc-iop-technical": {
+        "status": "compliant",
+        "notes": "All repositories and CRIS systems expose records according to the Dutch application profile of the OpenAIRE guidelines (CERIF for CRIS, the literature repository guidelines for repositories), with PIDs, and accept enrichment suggestions from the OpenAIRE Broker."
+      },
+      "gorc-iop-organizational": {
+        "status": "compliant",
+        "notes": "Data contracts per arrow in the information chain describe who delivers what, in which form, at which quality and how often, and who to call when it fails."
+      },
+      "gorc-iop-legal": {
+        "status": "compliant",
+        "notes": "Metadata is shared under CC0; a model clause for publisher agreements secures metadata and a copy of the full text; the agreements between parties (afsprakenstelsel) are signed."
+      },
+      "gorc-std-research-object": {
+        "status": "compliant",
+        "notes": "One agreed definition of the corpus and its object types, using the COAR resource type vocabulary."
+      },
+      "gorc-std-metadata": {
+        "status": "compliant",
+        "notes": "An updated Dutch application profile, stewarded by the NL Research Information Content Board (formerly WISH) through EduStandaard, adopted and monitored."
+      },
+      "gorc-std-semantic": {
+        "status": "compliant",
+        "notes": "Shared vocabularies (COAR resource types, access rights and versions; SPDX or Creative Commons licence URIs) are part of the application profile."
+      },
+      "gorc-std-software": {
+        "status": "not-applicable",
+        "notes": "Remains outside the federation's scope; institutional autonomy in software choice is kept, with a preference for open and POSI-aligned software."
+      },
+      "gorc-std-quality": {
+        "status": "compliant",
+        "notes": "Quality levels per field are agreed and published, with the dashboards as the shared measure."
+      },
+      "gorc-std-pid": {
+        "status": "compliant",
+        "notes": "DOI (where it exists), ORCID, ROR, URN:NBN and project or grant identifiers are required where they apply, and included in what is exposed for harvesting."
+      },
+      "gorc-std-aai": {
+        "status": "not-applicable",
+        "notes": "Remains outside scope; open metadata needs no authentication."
+      },
+      "gorc-std-catalogue": {
+        "status": "compliant",
+        "notes": "A public catalogue of the federation's data products and services, described as data products with data contracts (see the DURF data mesh architecture)."
+      },
+      "gorc-std-compliance": {
+        "status": "compliant",
+        "notes": "Shared legal guidance on Taverne, embargoes, licences and conditions for AI use, part of the rule book."
+      },
+      "gorc-std-workflows": {
+        "status": "compliant",
+        "notes": "Agreed exchange protocols: OAI-PMH or its successor for harvesting, SWORD for delivery of full texts from publishers through a national router, COUNTER-compliant usage statistics."
+      },
+      "gorc-ict-general": {
+        "status": "not-applicable",
+        "notes": "Outside DURF's scope. The profile records the wish for infrastructure that keeps the corpus under public control."
+      },
+      "gorc-ict-network": {
+        "status": "not-applicable",
+        "notes": "Outside scope."
+      },
+      "gorc-ict-compute": {
+        "status": "not-applicable",
+        "notes": "Outside scope."
+      },
+      "gorc-ict-storage": {
+        "status": "compliant",
+        "notes": "Storage redundancy is monitored: for each record the dashboards show whether it exists at the source, in the Graph and in the e-Depot."
+      },
+      "gorc-ict-os": {
+        "status": "not-applicable",
+        "notes": "Outside scope."
+      },
+      "gorc-ict-aai": {
+        "status": "not-applicable",
+        "notes": "Outside scope."
+      },
+      "gorc-st-general": {
+        "status": "compliant",
+        "notes": "Every service in the chain has an owner, a data contract and a continuity arrangement in the rule book."
+      },
+      "gorc-st-repositories": {
+        "status": "compliant",
+        "notes": "Repositories and CRIS systems hold the agreed share of full texts (scope set in theme 3) and deliver to the e-Depot and the Graph."
+      },
+      "gorc-st-discovery": {
+        "status": "compliant",
+        "notes": "The portal is the curated national outlet, managed together; the corpus reaches OpenAlex, Google Scholar, Wikidata, EOSC and WijsNL through agreed channels."
+      },
+      "gorc-st-research-tasks": {
+        "status": "not-applicable",
+        "notes": "Outside scope."
+      },
+      "gorc-st-workflows": {
+        "status": "compliant",
+        "notes": "The full chain runs: harvest and validate, deduplicate, enrich, feed back to the source, preserve and resolve."
+      },
+      "gorc-st-pid": {
+        "status": "compliant",
+        "notes": "Every preserved publication has a URN:NBN that is recorded in the repository record and keeps resolving."
+      },
+      "gorc-st-vocabulary": {
+        "status": "progress",
+        "notes": "The application profile points to maintained external vocabularies (COAR); no own service is needed."
+      },
+      "gorc-st-data-management": {
+        "status": "compliant",
+        "notes": "The dashboards are a maintained service of the federation, updated regularly and used in the general assembly."
+      },
+      "gorc-st-catalogue": {
+        "status": "compliant",
+        "notes": "This profile and the data mesh catalogue list every service with its owner and contract."
+      },
+      "gorc-st-security": {
+        "status": "not-applicable",
+        "notes": "Outside scope."
+      },
+      "gorc-st-helpdesk": {
+        "status": "compliant",
+        "notes": "One contact point for the federation, with agreed routing to the right party."
+      },
+      "gorc-ro-accessibility": {
+        "status": "compliant",
+        "notes": "Every record in the corpus is complete according to the profile, openly licensed (CC0 metadata) and, where allowed, with an open full text."
+      },
+      "gorc-ro-publications": {
+        "status": "compliant",
+        "notes": "The corpus is complete for the agreed scope, with metadata and a copy of the full text held in public hands and preserved in the e-Depot."
+      },
+      "gorc-ro-data": {
+        "status": "not-applicable",
+        "notes": "Remains outside the corpus; links from publications to data are part of the metadata profile."
+      },
+      "gorc-ro-software": {
+        "status": "not-applicable",
+        "notes": "Remains outside the corpus; links are part of the metadata profile."
+      },
+      "gorc-ro-semantic": {
+        "status": "progress",
+        "notes": "Used through the application profile."
+      },
+      "gorc-ro-collections": {
+        "status": "compliant",
+        "notes": "The corpus is a defined, citable collection, available through the Graph API and the portal, with institutional journals preserved in the e-Depot."
+      }
+    }
+  }
+}
