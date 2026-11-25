@@ -1,0 +1,233 @@
+{
+  "_readme": "IST assessment of the GORC profile of the Dutch Repository Federation Commons: the situation in November 2026. Framework: GORC v1.1 Assessment of the SPII Principles Alignment Tool. Open it at https://surf-ori.github.io/spii-1b-principles-alignment-tool/ (Import), change the answers and notes, save it and replace this file. DRAFT, written for review by DURF theme 1.",
+  "name": "Dutch Repository Federation Commons (IST, November 2026)",
+  "description": "The Dutch Repository Federation takes care of the Dutch Scholarly Communication Corpus: the published works with at least one author affiliated with a Dutch research institution. This is the current situation.",
+  "url": "https://durf-project.github.io/gorc-profile/",
+  "assessedOn": "2026-11-25",
+  "activities": [],
+  "customFrameworks": [],
+  "frameworks": {
+    "gorc": {
+      "gorc-gov-intent": {
+        "status": "progress",
+        "notes": "The purpose is written down in the DURF position paper (draft, October 2026): the libraries see themselves as custodians of the Dutch Scholarly Communication Corpus, with a mission and the corpus definition. It is not yet signed, and there is no published mandate of the federation itself; the mandate now comes from the UNL Open Science Agenda (spearhead: make a federation of repositories possible) and the Open Science NL grant to the DURF project."
+      },
+      "gorc-gov-strategy": {
+        "status": "progress",
+        "notes": "The DURF project has a project plan and roadmap until May 2030 with six themes. There is no strategy of the federation that runs beyond the project, no performance metrics agreed by all parties and no risk or continuity plan for the corpus, although resilience is the main reason the federation exists."
+      },
+      "gorc-gov-structures": {
+        "status": "progress",
+        "notes": "Decisions are made inside the DURF project (project lead, theme leads, steering group) and in existing bodies: UKB, WISH, PUGNL, NaMeCo and the Chiefs Open Science of UNL. Who decides what for the federation, outside the project, is not written down."
+      },
+      "gorc-gov-policy": {
+        "status": "non-compliant",
+        "notes": "There are no federation policies yet. Each institution has its own repository policy; agreements with the KB e-Depot exist per institution."
+      },
+      "gorc-gov-quality": {
+        "status": "progress",
+        "notes": "Quality is measured in the open for the first time through the DURF dashboards (metadata and full text monitors, 18 institutions). There are no agreed quality targets, and FAIR/CARE/TRUST principles are not formally adopted by the federation."
+      },
+      "gorc-rpa-rights": {
+        "status": "non-compliant",
+        "notes": "It is not written down who can join the federation, what roles exist in the information chain, and what each party can expect in return. The position paper and its roles and responsibilities matrix (appendix B) are the first draft of this."
+      },
+      "gorc-rpa-accountability": {
+        "status": "non-compliant",
+        "notes": "Everyone assumes the chain works and that parties can count on each other, but there are no signed agreements on standards, solidarity, conflict resolution or what happens when a party does not deliver. Recovery of the corpus has never been tested."
+      },
+      "gorc-sus-resourcing": {
+        "status": "progress",
+        "notes": "The work is funded by the DURF project until May 2030, and by the institutions' own budgets for their repositories and CRIS. OpenAIRE's services are paid for through European projects and memberships; a Dutch contribution model is under discussion via NaMeCo."
+      },
+      "gorc-sus-stewardship": {
+        "status": "progress",
+        "notes": "Each institution looks after its own part of the corpus. The KB e-Depot preserves what is delivered, but two thirds of the records in repositories have no file, so there is nothing to preserve for them. Redundancy exists in principle (repository, OpenAIRE Graph, e-Depot) but is not managed as one system."
+      },
+      "gorc-sus-trust": {
+        "status": "progress",
+        "notes": "There is trust between the people involved, built over years in DARE, NARCIS and the community groups, but it rests on goodwill rather than on agreements."
+      },
+      "gorc-eng-plan": {
+        "status": "progress",
+        "notes": "DURF has a project page, position paper, newsletter-style announcements and the Federation Day (18 November 2026). There is no engagement plan for the federation as a commons."
+      },
+      "gorc-eng-feedback": {
+        "status": "progress",
+        "notes": "Every DURF page has a feedback button that opens a GitHub issue or an e-mail; the position paper was discussed with the partners. How feedback is processed is not described."
+      },
+      "gorc-eng-promotion": {
+        "status": "non-compliant",
+        "notes": "The value of the corpus is not yet shown to its users, so there is little reason for institutions or researchers to take part beyond the project."
+      },
+      "gorc-eng-partnerships": {
+        "status": "progress",
+        "notes": "Partnerships exist with OpenAIRE, the KB, SURF, UKB and UNL, and through OpenAIRE with EOSC. Links with WijsNL, OpenAlex, Wikidata and other national commons are informal."
+      },
+      "gorc-hc-internal": {
+        "status": "progress",
+        "notes": "The people who run the systems are known within each institution, but there is no overview of who does what across the federation, and much of the work depends on a few people."
+      },
+      "gorc-hc-service-skills": {
+        "status": "progress",
+        "notes": "Expertise is spread over the community groups (WISH, PUGNL, UKB working groups) and SURF; skills for planning and assessing shared services are concentrated in the project team."
+      },
+      "gorc-hc-community-skills": {
+        "status": "progress",
+        "notes": "Implementing new standards (OpenAIRE guidelines, PIDs, SWORD) asks skills that not every institution has, especially smaller ones."
+      },
+      "gorc-hc-ease-of-use": {
+        "status": "progress",
+        "notes": "Joining the chain means dealing with several systems and guidelines with little documentation in one place."
+      },
+      "gorc-hc-training": {
+        "status": "non-compliant",
+        "notes": "There is no shared training programme."
+      },
+      "gorc-iop-technical": {
+        "status": "progress",
+        "notes": "Records are harvested over OAI-PMH; the Dutch profile is still NL-DIDL-MODS and OpenAIRE validation results are not fed back systematically. ORCID iDs and ROR IDs are missing from harvested records."
+      },
+      "gorc-iop-organizational": {
+        "status": "progress",
+        "notes": "Organisational interoperability rests on the community groups and personal contacts; there are no agreed processes for handing over data between parties."
+      },
+      "gorc-iop-legal": {
+        "status": "non-compliant",
+        "notes": "Licences on metadata are mostly unspecified; publisher agreements limit what can be shared. There is no legal framework for the federation."
+      },
+      "gorc-std-research-object": {
+        "status": "progress",
+        "notes": "The corpus is defined in the position paper (published works with at least one Dutch-affiliated author, including non-traditional outputs and institutional journals). Resource types are described with local vocabularies."
+      },
+      "gorc-std-metadata": {
+        "status": "progress",
+        "notes": "NL-DIDL-MODS is the current Dutch standard; work on an updated application profile based on the OpenAIRE guidelines has started in theme 2."
+      },
+      "gorc-std-semantic": {
+        "status": "progress",
+        "notes": "Vocabularies (resource types, access rights, licences) are used inconsistently between institutions."
+      },
+      "gorc-std-software": {
+        "status": "not-applicable",
+        "notes": "Not a focus of the federation: each institution chooses its own repository or CRIS software. The profile only requires the interfaces below."
+      },
+      "gorc-std-quality": {
+        "status": "progress",
+        "notes": "Quality checks exist (OpenAIRE validator, DURF monitors) but there are no agreed quality levels."
+      },
+      "gorc-std-pid": {
+        "status": "progress",
+        "notes": "DOIs are present in about half of the records, Handles in about a third; ORCID iDs and ROR IDs do not reach the harvested records. The KB assigns URN:NBNs for preserved files."
+      },
+      "gorc-std-aai": {
+        "status": "not-applicable",
+        "notes": "The federation offers no services that need log-in for end users; institutional systems use SURFconext."
+      },
+      "gorc-std-catalogue": {
+        "status": "non-compliant",
+        "notes": "There is no catalogue of the services and data sources that make up the federation."
+      },
+      "gorc-std-compliance": {
+        "status": "progress",
+        "notes": "Copyright (Taverne), embargoes and privacy are handled per institution."
+      },
+      "gorc-std-workflows": {
+        "status": "progress",
+        "notes": "Harvesting is OAI-PMH; delivery from publishers to repositories happens per institution, if at all."
+      },
+      "gorc-ict-general": {
+        "status": "not-applicable",
+        "notes": "Each party runs its own infrastructure; where services run matters for digital autonomy but is not in DURF's scope."
+      },
+      "gorc-ict-network": {
+        "status": "not-applicable",
+        "notes": "Provided by SURF and the institutions; not a federation concern."
+      },
+      "gorc-ict-compute": {
+        "status": "not-applicable",
+        "notes": "Not needed by the federation itself."
+      },
+      "gorc-ict-storage": {
+        "status": "progress",
+        "notes": "Storage is distributed: repositories at the institutions, the KB e-Depot for preservation, OpenAIRE for the Graph. Redundancy is not monitored as a whole."
+      },
+      "gorc-ict-os": {
+        "status": "not-applicable",
+        "notes": "Not a federation concern."
+      },
+      "gorc-ict-aai": {
+        "status": "not-applicable",
+        "notes": "Not needed for open metadata."
+      },
+      "gorc-st-general": {
+        "status": "progress",
+        "notes": "Each service in the information chain is maintained by its own party; there is no shared view on their continuity."
+      },
+      "gorc-st-repositories": {
+        "status": "progress",
+        "notes": "About 20 institutional repositories and CRIS systems hold the corpus, built since the DARE programme; two thirds of the records have no file."
+      },
+      "gorc-st-discovery": {
+        "status": "progress",
+        "notes": "The Netherlands Research Portal (OpenAIRE Connect) shows the Dutch slice of the OpenAIRE Graph; discovery through OpenAlex, Google Scholar and Wikidata depends on each institution."
+      },
+      "gorc-st-research-tasks": {
+        "status": "not-applicable",
+        "notes": "Not a function of the federation."
+      },
+      "gorc-st-workflows": {
+        "status": "progress",
+        "notes": "OpenAIRE PROVIDE harvests and validates, the Graph deduplicates, the Broker can return enrichments; the feedback loop to repositories is not yet used."
+      },
+      "gorc-st-pid": {
+        "status": "progress",
+        "notes": "The KB URN:NBN resolver and the Handle and DOI infrastructure exist; URN:NBNs are not recorded back in the repositories."
+      },
+      "gorc-st-vocabulary": {
+        "status": "non-compliant",
+        "notes": "There is no shared vocabulary service."
+      },
+      "gorc-st-data-management": {
+        "status": "progress",
+        "notes": "The DURF dashboards on the SURF ORI DuckLake monitor metadata quality and full text status as a proof of concept."
+      },
+      "gorc-st-catalogue": {
+        "status": "non-compliant",
+        "notes": "No catalogue of services exists."
+      },
+      "gorc-st-security": {
+        "status": "not-applicable",
+        "notes": "Not needed for open metadata."
+      },
+      "gorc-st-helpdesk": {
+        "status": "progress",
+        "notes": "Questions go to each party's own helpdesk, to OpenAIRE, or to durf@surf.nl during the project."
+      },
+      "gorc-ro-accessibility": {
+        "status": "progress",
+        "notes": "Metadata is openly harvestable but often incomplete; about 30% of records have an open file."
+      },
+      "gorc-ro-publications": {
+        "status": "progress",
+        "notes": "The corpus counts 3.4 million published works in the OpenAIRE Graph; 1.9 million records (1995 to 2025) are in the repositories and CRIS systems of 18 monitored institutions."
+      },
+      "gorc-ro-data": {
+        "status": "not-applicable",
+        "notes": "Research data is not part of the corpus; it has its own custodians (DANS, 4TU.ResearchData, institutional data repositories). Publications should link to it with DOIs."
+      },
+      "gorc-ro-software": {
+        "status": "not-applicable",
+        "notes": "Research software is not part of the corpus; publications should link to it."
+      },
+      "gorc-ro-semantic": {
+        "status": "non-compliant",
+        "notes": "Vocabularies are not managed as research objects of the federation."
+      },
+      "gorc-ro-collections": {
+        "status": "progress",
+        "notes": "The corpus exists virtually as the 'netherlands' community in the OpenAIRE Graph; institutional journals are only partly preserved."
+      }
+    }
+  }
+}

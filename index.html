@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en" data-accent="theme-1" data-feedback-repo="gorc-profile" data-durf-theme="1" data-scenario="ist">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>GORC profile · Dutch Repository Federation</title>
+<meta name="description" content="A Global Open Research Commons profile of the Dutch Repository Federation Commons, which takes care of the Dutch Scholarly Communication Corpus: the situation now (IST) and where we want to go (SOLL, draft). The basis of the DURF Federation Rule Book.">
+<link rel="canonical" href="https://durf-project.github.io/gorc-profile/">
+<link rel="icon" type="image/svg+xml" href="https://durf-project.github.io/durf-design-system/assets/favicon.svg">
+<link rel="apple-touch-icon" href="https://durf-project.github.io/durf-design-system/assets/apple-touch-icon.png">
+<meta property="og:title" content="GORC profile · Dutch Repository Federation">
+<meta property="og:description" content="Who takes care of the Dutch Scholarly Communication Corpus, under which rules and with which services: now and in 2030.">
+<meta property="og:image" content="https://durf-project.github.io/durf-design-system/assets/durf-og.png">
+
+<!-- DURF design system v1.1: Oat, tokens; durf-nav.js without defer (topbar, menu, theme, feedback button). -->
+<link rel="stylesheet" href="https://durf-project.github.io/durf-design-system/lib/oat.min.css">
+<link rel="stylesheet" href="https://durf-project.github.io/durf-design-system/durf.css">
+<script src="https://durf-project.github.io/durf-design-system/durf-nav.js"></script>
+<script src="https://durf-project.github.io/durf-design-system/lib/oat.min.js" defer></script>
+<script src="https://durf-project.github.io/durf-design-system/lib/marked.min.js" defer></script>
+<link rel="stylesheet" href="profile.css">
+<script src="profile.js" defer></script>
+</head>
+<body>
+
+<button type="button" class="durf-toc-toggle" data-toc-toggle aria-controls="durf-toc" aria-expanded="false">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+  <span>Contents</span>
+</button>
+<aside data-toc id="durf-toc" aria-label="Contents">
+  <header>
+    <h2>Contents</h2>
+    <button type="button" class="durf-toc-close" aria-label="Close contents">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+  </header>
+  <nav><ol class="durf-toc-list" id="durf-toc-list"></ol></nav>
+</aside>
+<div class="durf-toc-backdrop" hidden></div>
+
+<header class="durf-page-head">
+  <div class="durf-shell">
+    <div class="durf-page-head__inner">
+      <img class="durf-page-head__logo" src="https://durf-project.github.io/durf-design-system/assets/durf-logo.svg" alt="DURF, Dutch Repository Federation" width="96" height="96">
+      <div class="durf-page-head__text">
+        <p class="gp-eyebrow">Theme 1 Governance · towards the Federation Rule Book</p>
+        <h1>GORC profile of the Dutch Repository Federation Commons <span class="durf-tag" data-tone="draft">DRAFT</span></h1>
+        <p class="byline">A Global Open Research Commons profile for the Dutch Scholarly Communication Corpus · initially edited by Maurice Vanderfeesten · November 2026</p>
+        <nav class="links" aria-label="Profile">
+          <a href="https://github.com/durf-project/gorc-profile/tree/main/content" target="_blank" rel="noopener">Edit the texts on GitHub</a>
+          <a href="https://github.com/durf-project/gorc-profile/commits/main" target="_blank" rel="noopener">Version history</a>
+          <a href="https://durf-project.github.io/position-paper/" target="_blank" rel="noopener">Position paper</a>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>
+
+<div class="gp-switch" role="region" aria-label="Scenario">
+  <div class="durf-shell gp-switch__inner">
+    <div class="gp-seg" role="radiogroup" aria-label="Show the situation">
+      <button type="button" role="radio" data-set-scenario="ist" aria-checked="true"><b>IST</b> now, 2026</button>
+      <button type="button" role="radio" data-set-scenario="soll" aria-checked="false"><b>SOLL</b> target, 2030 <span class="durf-tag" data-tone="draft">DRAFT</span></button>
+    </div>
+    <p class="gp-switch__note" data-only="ist">The situation as it is now.</p>
+    <p class="gp-switch__note" data-only="soll">Where we want to go. A draft: <a href="#contribute">help shape it</a>.</p>
+  </div>
+</div>
+
+<section class="gp-overview" id="overview" aria-labelledby="overview-title">
+  <div class="durf-shell gp-overview__inner">
+    <div class="gp-hive-wrap">
+      <h2 id="overview-title" class="gp-visually-hidden">The ten essential elements</h2>
+      <div id="gp-hive" class="gp-hive"><p class="durf-loading">Loading the profile…</p></div>
+      <div id="gp-tip" class="gp-tip" role="tooltip" hidden></div>
+      <ul class="gp-list" id="gp-list" aria-label="The essential elements and their status"></ul>
+    </div>
+    <div class="gp-panel">
+      <p class="gp-eyebrow" data-only="ist">IST · November 2026</p>
+      <p class="gp-eyebrow" data-only="soll">SOLL · target May 2030 · draft</p>
+      <p class="gp-score" id="gp-score"></p>
+      <p class="gp-panel__lead">The ten essential elements of a research commons, coloured by how far they are in place. Point at an element to read what it means, click it to go to its section.</p>
+      <ul class="gp-legend" id="gp-legend"></ul>
+      <p class="gp-panel__small">The colours come from a self-assessment with the GORC v1.1 framework of the SPII Principles Alignment Tool: every category of an element is scored as compliant, making progress or not compliant.</p>
+      <p class="gp-panel__links">
+        <a class="button outline small" id="gp-open-tool" target="_blank" rel="noopener">Open this assessment in the SPII tool</a>
+        <a class="gp-panel__json" id="gp-json" download>Download the JSON</a>
+      </p>
+    </div>
+  </div>
+</section>
+
+<main class="durf-shell narrow">
+  <article id="content" class="gp-content"></article>
+</main>
+
+<footer class="durf-footer">
+  <div class="durf-shell narrow">
+    <p><a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener license">CC BY 4.0</a> · Dutch Repository Federation (DURF), theme 1 Governance. Parts of this profile were drafted with AI assistance and reviewed by the DURF team.</p>
+    <p>Essential elements and categories from the <a href="https://doi.org/10.15497/RDA00119" target="_blank" rel="noopener">GORC International Model v1.1</a> (Research Data Alliance, CC BY 4.0); the honeycomb follows the layout of the GORC-IG essential elements figure (CC BY). Scoring with the <a href="https://surf-ori.github.io/spii-1b-principles-alignment-tool/#gorc" target="_blank" rel="noopener">SPII Principles Alignment Tool</a>.</p>
+  </div>
+</footer>
+
+<noscript><div class="durf-shell narrow"><p>This page needs JavaScript. The texts are also readable on GitHub in the <a href="https://github.com/durf-project/gorc-profile/tree/main/content">content folder</a>.</p></div></noscript>
+</body>
+</html>
