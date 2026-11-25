@@ -4,14 +4,16 @@ id: research-objects
 title: Research objects
 priority: 1
 ostrom: 1
-summary: The shared resource itself, the Dutch Scholarly Communication Corpus, and what belongs to it.
+summary: The shared resource itself, the Dutch Scholarly Communication Corpus of publicly funded, published scholarly works, and what belongs to it.
 ---
 
 Research objects are what the commons takes care of. For the federation that is one shared resource: the **Dutch Scholarly Communication Corpus**. Its definition is the starting point the federation can feel responsible for (Ostrom 1: clear boundaries).
 
 ![The Dutch Scholarly Communication Corpus as a shared resource](https://durf-project.github.io/durf-design-system/assets/img/scholarly-corpus-logo%2Btext.svg)
 
-The corpus is the body of **published works** with at least one author affiliated with a Dutch research institution:
+The corpus is the body of **publicly funded, published scholarly works** with at least one author affiliated with a Dutch research institution. It was created with public money, so it should be available to the public. That is the core of a commons: a shared resource that no single institution owns, and that we take care of together.
+
+What belongs to it:
 
 - **included:** journal articles, books and chapters, conference papers, theses, non-traditional research outputs, the versions of a work in the Publish, Review, Curate model, and journals published by the institutions themselves;
 - **excluded, but connected:** datasets, software, projects, persons, organisations and instruments have their own custodians. Publications link to them with DOIs, ORCID iDs, ROR IDs and grant identifiers.
@@ -19,7 +21,7 @@ The corpus is the body of **published works** with at least one author affiliate
 :::ist
 ### Now: 3.4 million works, half of them incomplete
 
-The OpenAIRE Graph knows 3.4 million Dutch published works, from the early 1800s until today. Of the 1.9 million records (1995 to 2025) in the repositories and CRIS systems of the 18 institutions we can monitor, about half lack essential metadata and **two thirds have no file in the repository**. The corpus exists only virtually, as the "netherlands" community in the OpenAIRE Graph.
+The OpenAIRE Graph knows 3.4 million Dutch published scholarly works, from the early 1800s until today. Of the 1.9 million records (1995 to 2025) in the repositories and CRIS systems of the 18 institutions we can monitor, about half lack essential metadata and **two thirds have no file in the repository**. The corpus exists only virtually, as the "netherlands" community in the OpenAIRE Graph.
 :::
 
 :::soll
