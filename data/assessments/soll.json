@@ -137,28 +137,28 @@
         "notes": "Agreed exchange protocols: OAI-PMH or its successor for harvesting, SWORD for delivery of full texts from publishers through a national router, COUNTER-compliant usage statistics."
       },
       "gorc-ict-general": {
-        "status": "not-applicable",
-        "notes": "Outside DURF's scope. The profile records the wish for infrastructure that keeps the corpus under public control."
+        "status": "progress",
+        "notes": "Every institution that runs systems or services for the commons has done a digital autonomy assessment (for example with the Utrecht University tool), and the federation has agreed ambitions towards more digital autonomy: exit strategies, data portability, and a preference for open source and POSI-compliant services."
       },
       "gorc-ict-network": {
-        "status": "not-applicable",
-        "notes": "Outside scope."
+        "status": "compliant",
+        "notes": "Network through SURF and the institutions, in public hands."
       },
       "gorc-ict-compute": {
-        "status": "not-applicable",
-        "notes": "Outside scope."
+        "status": "progress",
+        "notes": "The assessments show where the shared services and local systems run; dependencies on non-European providers are known and discussed."
       },
       "gorc-ict-storage": {
         "status": "compliant",
         "notes": "Storage redundancy is monitored: for each record the dashboards show whether it exists at the source, in the Graph and in the e-Depot."
       },
       "gorc-ict-os": {
-        "status": "not-applicable",
-        "notes": "Outside scope."
+        "status": "progress",
+        "notes": "Each system has a documented exit strategy, so data and configurations can be moved to another system."
       },
       "gorc-ict-aai": {
-        "status": "not-applicable",
-        "notes": "Outside scope."
+        "status": "compliant",
+        "notes": "Institutional log-in through SURFconext for all OpenAIRE services (PROVIDE, CONNECT, MONITOR)."
       },
       "gorc-st-general": {
         "status": "compliant",
