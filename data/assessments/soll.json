@@ -66,7 +66,7 @@
       },
       "gorc-hc-internal": {
         "status": "progress",
-        "notes": "A public register of contacts per institution and per role in the chain (repository manager, CRIS manager, metadata expert, e-Depot contact), with backup arrangements so knowledge does not leave with one person."
+        "notes": "In-kind contributions are part of membership: the rule book says per role, from library director to expert, what each member contributes. A public register names who fills each role, with a backup, and a coordinator per institution keeps track of the contributions, which are reported each year at the Federation Day."
       },
       "gorc-hc-service-skills": {
         "status": "progress",
@@ -74,7 +74,7 @@
       },
       "gorc-hc-community-skills": {
         "status": "compliant",
-        "notes": "The skills each role needs are described in the rule book, and institutions help each other through peer support and shared tools."
+        "notes": "The skills and the time each role needs are described in the rule book, and institutions help each other through peer support and shared tools."
       },
       "gorc-hc-ease-of-use": {
         "status": "compliant",
