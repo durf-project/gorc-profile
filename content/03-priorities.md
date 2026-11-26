@@ -18,6 +18,6 @@ We ranked the essential elements by how important they are to the federation now
 | 5 | [Rules of participation and access](#rules) | Who can join, with which role, obligations and quality targets (Ostrom 2, 3). |
 | 6 | [Sustainability](#sustainability) | The corpus lasts only if it is used and its services have people and money, in a solidarity model. |
 | 9 | [Engagement](#engagement) | Show the value of the corpus to policy makers and the public. |
-| 10 | [ICT infrastructure](#ict) | Matters for digital autonomy, but is outside the scope of DURF. |
+| 10 | [ICT infrastructure](#ict) | In scope for the commons: digital autonomy decides whether the corpus stays in public hands. |
 
 <!-- Sustainability had no number in the original table; 6 is a proposal. -->

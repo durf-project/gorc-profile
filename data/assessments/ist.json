@@ -137,28 +137,28 @@
         "notes": "Harvesting is OAI-PMH; delivery from publishers to repositories happens per institution, if at all."
       },
       "gorc-ict-general": {
-        "status": "not-applicable",
-        "notes": "Each party runs its own infrastructure; where services run matters for digital autonomy but is not in DURF's scope."
+        "status": "non-compliant",
+        "notes": "Each party runs its own infrastructure. Several institutions depend on proprietary CRIS platforms (such as Pure) and commercial hosting; DURF reviewers noted that not all components are POSI-compliant. Dependencies have not been mapped across the federation, and exit options are unknown."
       },
       "gorc-ict-network": {
-        "status": "not-applicable",
-        "notes": "Provided by SURF and the institutions; not a federation concern."
+        "status": "progress",
+        "notes": "Network is provided by SURF and the institutions, in public hands, but not described as part of the commons."
       },
       "gorc-ict-compute": {
-        "status": "not-applicable",
-        "notes": "Not needed by the federation itself."
+        "status": "progress",
+        "notes": "Compute sits with the institutions, their vendors and OpenAIRE; where it runs and under which jurisdiction is not known across the federation."
       },
       "gorc-ict-storage": {
         "status": "progress",
-        "notes": "Storage is distributed: repositories at the institutions, the KB e-Depot for preservation, OpenAIRE for the Graph. Redundancy is not monitored as a whole."
+        "notes": "Storage is distributed: repositories at the institutions or vendors, the KB e-Depot for preservation, OpenAIRE for the Graph. Redundancy is not monitored as a whole."
       },
       "gorc-ict-os": {
-        "status": "not-applicable",
-        "notes": "Not a federation concern."
+        "status": "non-compliant",
+        "notes": "Configurations and data pipelines are managed per institution or by vendors; there is no shared knowledge of how portable they are."
       },
       "gorc-ict-aai": {
-        "status": "not-applicable",
-        "notes": "Not needed for open metadata."
+        "status": "progress",
+        "notes": "Institutional log-in through SURFconext is available, but not yet used for all OpenAIRE services."
       },
       "gorc-st-general": {
         "status": "progress",
